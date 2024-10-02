@@ -40,7 +40,7 @@ To get started with the Markdown Documentation App, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/VirgoLabs/doclab.git
-   cd repo-name
+   cd doclab
    ```
 
 2. **Install Dependencies**:
