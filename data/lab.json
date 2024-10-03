@@ -1,0 +1,17 @@
+{
+    "name": "DocLab",
+    "siteURL": "https://doclab.vercel.app",
+    "copyrights": "© 2024 DocLab",
+    "twiter": {
+        "username": "doclab",
+        "card": "summary_large_image"
+    },
+    "author": "imparth",
+    "content": {
+        "title": "DocLab Document",
+        "description": "DocLab is ready to use documentation app.",
+        "keywords": "doclab, DocLab, VirgoLabs, Virgo Labs",
+        "tags": "doclab, DocLab, VirgoLabs, Virgo Labs",
+        "type": "article"
+    }
+}
