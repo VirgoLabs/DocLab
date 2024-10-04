@@ -44,7 +44,6 @@ function index({ lang, page, mdxSource, navigation, metadata }) {
         <meta property="og:url" content={`${lab.siteURL}/${lang}/${page}`} />
         <meta property="og:type" content={lab.content.type || "article"} />
 
-        <meta property="course:publisher" content="https://imparth.me/" />
         <meta property="author" content={lab.author} />
 
         <meta property="twitter:title" content={metadata.title} />
